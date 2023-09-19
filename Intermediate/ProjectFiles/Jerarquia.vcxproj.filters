@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Jerarquia.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{C160BDA6-6C78-454F-94E6-DB4DF2E16D6D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Jerarquia.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\JerarquiaEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{9C2EE4CD-CD85-4304-AEB9-5BE719A8841C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Jerarquia">
+      <UniqueIdentifier>{B5AB24AB-F465-49F8-95E6-F9F4F77D3B61}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Jerarquia\Jerarquia.Build.cs">
+      <Filter>Source\Jerarquia</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Jerarquia\Jerarquia.cpp">
+      <Filter>Source\Jerarquia</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Jerarquia\Jerarquia.h">
+      <Filter>Source\Jerarquia</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Jerarquia\JerarquiaActor.cpp">
+      <Filter>Source\Jerarquia</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Jerarquia\JerarquiaActor.h">
+      <Filter>Source\Jerarquia</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Jerarquia\JerarquiaCharacter.cpp">
+      <Filter>Source\Jerarquia</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Jerarquia\JerarquiaCharacter.h">
+      <Filter>Source\Jerarquia</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Jerarquia\JerarquiaGameMode.cpp">
+      <Filter>Source\Jerarquia</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Jerarquia\JerarquiaGameMode.h">
+      <Filter>Source\Jerarquia</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

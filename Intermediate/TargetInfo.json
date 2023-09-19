@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Jerarquia",
+			"Path": "C:\\TODO\\CODIGO4SEPTIEMBRE\\14vtutorial\\Jerarquia\\Source\\Jerarquia.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "JerarquiaEditor",
+			"Path": "C:\\TODO\\CODIGO4SEPTIEMBRE\\14vtutorial\\Jerarquia\\Source\\JerarquiaEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,2 @@
+C:\TODO\puroUnrealC++VTpractica\Jerarquia\Intermediate\Build\Win64\UE4Editor\Development\Jerarquia\Definitions.Jerarquia.h
+C:\TODO\puroUnrealC++VTpractica\Jerarquia\Source\Jerarquia\Jerarquia.h
